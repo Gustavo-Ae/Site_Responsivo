@@ -65,6 +65,14 @@ a{
     text-transform: uppercase;
 }
 
+.navbar-items li{
+    transition: all 500ms ease;
+}
+
+.navbar-items li:hover{
+    color: blue;
+}
+
 .logo{
     font-size: 2rem;
 }
